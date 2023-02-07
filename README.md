@@ -5,6 +5,6 @@
 | Content Cell  | Сделан предварительный анализ тарифов телеком компании на небольшой выборке клиентов. Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше  | Pandas, matplotlib, numpy, scipy, seaborn  |
 | Content Cell  | На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её возможностей проверить данные и сравнить поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга  | Pandas, matplotlib, numpy, scipy, seaborn  |
 | Content Cell  | На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок  | Pandas, matplotlib, numpy, scipy, seaborn  |
-| Content Cell  | Content Cell  | Pandas, matplotlib, numpy, scipy, seaborn  |
-| Content Cell  | Content Cell  | Pandas, matplotlib, numpy, scipy, seaborn  |
+| Content Cell  | Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир  | Pandas, matplotlib, numpy, scipy, seaborn  |
+| Content Cell  | На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа  | Pandas, matplotlib, numpy, scipy, seaborn  |
 | Content Cell  | Content Cell  | Pandas, matplotlib, numpy, scipy, seaborn  |
